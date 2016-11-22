@@ -7,7 +7,7 @@
    * [Column.bind](chap03/column-bind.md)
    * [Custom Column HTML](chap03/custom_html.md)
    * [Row-repeat](chap03/row-repeat.md)
-* [04. Optional custom attributes](chap04/README.md)
+* [05. Custom Column HTML](chap04/README.md)
    * [v-selection](chap04/v-selection.md)
    * [v-sort](chap04/v-sort.md)
    * [v-resize-col](chap04/v-resize-col.md)
