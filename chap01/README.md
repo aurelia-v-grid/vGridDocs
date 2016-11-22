@@ -1,17 +1,14 @@
 #About the grid
 
-This grid operates on a bound array of items and a current entity which holds the selected item.
-The grid observes the array bound to it and creates an internal clone it uses for displaying data.
+*TODO....*
+*TODO....*
+*TODO....*
+*TODO....*
+*TODO....*
 
-> The array needs to be initialized as an object array, current entity as an empty object {}
 
-When someone uses filter it takes the main array and uses `[].filter()` on it. The result of this replaces the internal clone, so it doesn't mess with the array bound to the grid.
-On sorting it just sorts the internal clone, no the bound collection.
 
-When someone updates a field on the internal array, this change will be reflected by the array bound to the grid.
 
-The grid has a current entity object you bind to the grid, that's the one you use with your inputs. When you select a row in the grid it displays that row data in the object, so inputs get updated.
-The grid has an attribute to observe bound properties. When updating data the input/row gets updated on every key touch.
 
 There are three options to create columns for the grid:
 
