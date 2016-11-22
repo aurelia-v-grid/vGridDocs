@@ -37,7 +37,7 @@
    * [v-filter](chap04/v-filter.md)
    * [v-drag-drop-col](chap04/v-drag-drop-col.md)
    * [v-menu](chap04/v-menu.md)
-* [05. <v-grid-col> custom css help classes](chap05/README.md)
+* [05. <v-grid-col> custom](chap05/README.md)
    * [checkbox](chap05/checkbox.md)
    * [image](chap05/image.md)
    * [input](chap05/input.md)
