@@ -45,10 +45,10 @@
 * [06. <v-grid-row-repeat>](chap06/README.md)
 * [07. <v-grid-context> custom menu](chap07/README.md)
 * [08. <v-grid-group-row> custom group row](chap08/README.md)
+* [09. <v-grid-group-element> custom group element](chap09/README.md)
 * [How to install](chap10/README.md)
    * [JSPM](chap10/jspm.md)
    * [Aurelia-CLI (not asp.core)](chap10/aurelia-cli_not_aspcore.md)
    * [Aurelia-CLI (asp-core)](chap10/aurelia-cli_asp-core.md)
    * [Webpack](chap10/webpack.md)
-* [09. <v-grid-group-element> custom group element](chap09/README.md)
 
