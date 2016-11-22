@@ -2,8 +2,6 @@
 
 * [Introduction](README.md)
 * [01. About](chap01/README.md)
-* [02. Demo](chap02/README.md)
-   * [Live demo and gist.run](chap02/live_demo_and_gistrun.md)
 * [03. How to use](chap03/README.md)
    * [Simple Column HTML](chap03/simple_html.md)
    * [Column.bind](chap03/column-bind.md)
