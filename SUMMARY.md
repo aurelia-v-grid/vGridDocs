@@ -14,7 +14,7 @@
    * [v-grid-connector](chap02/v-grid-connector.md)
    * [v-multi-select](chap02/v-multi-select.md)
    * [v-manual-sel](chap02/v-manual-sel.md)
-   * v-theme
+   * [v-theme](chap02/v-theme.md)
    * v-row-on-draw
    * v-columns
    * v-language
