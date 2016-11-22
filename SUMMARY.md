@@ -23,7 +23,7 @@
    * [v-drag-drop-col](chap04/v-drag-drop-col.md)
 * [05. Optional CSS classes for custom HTML](chap05/README.md)
    * checkbox
-   * images
+   * image
    * inputs-row
 * [10. How to install](chap10/README.md)
 
