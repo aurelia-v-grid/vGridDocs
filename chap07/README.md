@@ -1,6 +1,7 @@
 # ```<v-grid-context>``` custom menu
 
-todo...
+
+Custom html tag for replacing will be ```v-grid-context```
 
 ```
 <v-grid-context>
@@ -11,5 +12,5 @@ todo...
  <groupby-template>etc etc </groupby-template>
  <all-template>etc etc </all-template>
  </v-grid-context>
- 
- ```
+
+```
