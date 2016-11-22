@@ -5,30 +5,30 @@ If you use custom HTML columns you can use these to help you get started. Or if 
 ###classes
 
 ######checkboxes (header and rows):
-* ```vgrid-row-checkbox-100``` (100% height)
-* ```vgrid-row-checkbox-50```  (50% height)
+* ```avg-row-checkbox-100``` (100% height)
+* ```avg-row-checkbox-50```  (50% height)
 
 ######labels (headers):
-* ```vgrid-label-bottom```
-* ```vgrid-label-top```
-* ```vgrid-label-full```
+* ```avg-label-bottom```
+* ```avg-label-top```
+* ```avg-label-full```
 
 ######image (rows):
 * ```vgrid-image-round```
 
 
 ######inputs (rows):
-* ```vgrid-row-input```
+* ```avg-row-input```
 
 
 ######inputs (header):
-* ```vgrid-header-input-bottom```
-* ```vgrid-header-input-top```
+* ```avg-header-input-bottom```
+* ```avg-header-input-top```
 
 
 
 
-######Sample:
+######Sample:  PS ! relace "vgrid" with "avg", picture not updated
 
 ![classes image](cssclasses.png)
 
