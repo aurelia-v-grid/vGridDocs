@@ -4,7 +4,7 @@
 * [01. About](chap01/README.md)
 * [02. Simple Column HTML](chap02/README.md)
    * [col-width](chap02/col-width.md)
-   * col-type
+   * [col-type](chap02/col-type.md)
    * col-field
    * col-sort
    * col-header-name
