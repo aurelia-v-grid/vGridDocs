@@ -4,7 +4,7 @@
 * [01. About](chap01/README.md)
    * [datasource](chap01/datasource.md)
    * [selection](chap01/selection.md)
-   * gridConnector
+   * [gridConnector](chap01/gridconnector.md)
 * [02. v-grid attributes](chap02/README.md)
    * v-row-height
    * v-header-height
