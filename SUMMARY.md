@@ -7,8 +7,8 @@
    * [col-type](chap02/col-type.md)
    * [col-field](chap02/col-field.md)
    * [col-sort](chap02/col-sort.md)
-   * [col-header-name](chap02/col-header-name.md)
-   * col-filter
+   * col-header-name
+   * [col-filter](chap02/col-filter.md)
    * col-filter-top
    * col-css
    * col-add-row-attributes
