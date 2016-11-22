@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [01. About](chap01/README.md)
 * [02. Simple Column HTML](chap02/README.md)
-   * col-width
+   * [col-width](chap02/col-width.md)
    * col-type
    * col-field
    * col-sort
