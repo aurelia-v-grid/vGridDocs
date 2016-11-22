@@ -7,7 +7,7 @@
    * [selection](chap01/selection.md)
    * [gridConnector](chap01/gridconnector.md)
 * [02. v-grid attributes](chap02/README.md)
-   * v-row-height
+   * [v-row-height](chap02/v-row-height.md)
    * v-header-height
    * v-footer-height
    * v-panel-height
