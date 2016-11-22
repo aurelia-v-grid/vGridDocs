@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
 * [01. About](chap01/README.md)
+   * [grid columns](chap01/grid_columns.md)
    * [datasource](chap01/datasource.md)
    * [selection](chap01/selection.md)
    * [gridConnector](chap01/gridconnector.md)
-   * [grid columns](chap01/grid_columns.md)
 * [02. v-grid attributes](chap02/README.md)
    * v-row-height
    * v-header-height
