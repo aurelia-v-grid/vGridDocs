@@ -3,9 +3,7 @@ This chapter shows how to add/install the grid to your own project.
 
 ---
 ###JSPM:
- *-Tested with esnext skeleton:**working***
-* Run: ````jspm install aurelia-v-grid=github:vegarringdal/vGrid```
-* In ```main.js``` add ```.plugin('aurelia-v-grid')```
+
 
 ---
 ###Aurelia-CLI (not asp.core)
