@@ -47,5 +47,5 @@
    * [Aurelia-CLI (not asp.core)](chap10/aurelia-cli_not_aspcore.md)
    * [Aurelia-CLI (asp-core)](chap10/aurelia-cli_asp-core.md)
    * [Webpack](chap10/webpack.md)
-* [05. <v-grid-row-repeat> custom css help classes](chap06/README.md)
+* [06. <v-grid-row-repeat> custom css help classes](chap06/README.md)
 
