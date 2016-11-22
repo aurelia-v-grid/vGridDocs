@@ -1,7 +1,7 @@
 # v-filter
 Add to enable filter in header input
-First param must always be field/property of collection you want to filter
-next are optional, you can add filter operator, value converter, and "onKeyDown" yo make grid filter on each key stroke, default if when you hit enter
+First param must always be field/property of collection you want to filter.
+Next are optional, you can add filter operator, value converter, and "onKeyDown" yo make grid filter on each key stroke, default if when you hit enter
 
 ```html
 <v-grid-col>
