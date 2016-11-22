@@ -8,7 +8,7 @@
    * [gridConnector](chap01/gridconnector.md)
 * [02. v-grid attributes](chap02/README.md)
    * [v-row-height](chap02/v-row-height.md)
-   * v-header-height
+   * [v-header-height](chap02/v-header-height.md)
    * v-footer-height
    * v-panel-height
    * v-grid-connector
