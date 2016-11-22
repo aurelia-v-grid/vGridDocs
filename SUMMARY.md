@@ -18,7 +18,7 @@
    * [v-row-on-draw](chap02/v-row-on-draw.md)
    * [v-columns](chap02/v-columns.md)
    * [v-language](chap02/v-language.md)
-* [03. Simple Column HTML](chap03/README.md)
+* [03. <v-grid-col> simple](chap03/README.md)
    * [col-width](chap02/col-width.md)
    * [col-type](chap02/col-type.md)
    * [col-field](chap02/col-field.md)
