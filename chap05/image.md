@@ -2,15 +2,15 @@
 
 ####Sample code from picture below
 
-**checkbox** 
+**image**
 ```
-<v-grid-col col-width="70">
+<v-grid-col col-width="90">
   <v-header-template>
-    <input class="vgrid-row-checkbox-50" v-header-menu="bool" type="checkbox" v-filter="bool|=">
-    <p class="vgrid-label-bottom" v-sort="bool">Bool</p>
+    <div style="height:50%"></div>
+    <p class=" vgrid-label-bottom">Index</p>
   </v-header-template>
   <v-row-template>
-    <input class="vgrid-row-checkbox-100" v-row-menu="bool" type="checkbox" checked.bind="rowRef.bool">
+    <image class="vgrid-image-round" v-image-fix v-row-menu="image" src.bind="rowRef.images"></image>
   </v-row-template>
 </v-grid-col>
 ```
