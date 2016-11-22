@@ -29,7 +29,7 @@
    * [col-css](chap02/col-css.md)
    * [col-add-row-attributes](chap02/col-add-row-attributes.md)
    * [col-add-filter-attributes](chap02/col-add-filter-attributes.md)
-* [04. Custom Column HTML](chap04/README.md)
+* [04. <v-grid-col> custom](chap04/README.md)
    * [v-selection](chap04/v-selection.md)
    * [v-sort](chap04/v-sort.md)
    * [v-resize-col](chap04/v-resize-col.md)
