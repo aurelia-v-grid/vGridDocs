@@ -8,7 +8,7 @@ To be used with image elements in row, this will just help update the image fast
     <p>Profile Img</p>
   </v-header-template>
   <v-row-template>
-    <image v-image-fix src.bind="rowRef.images"></image>
+    <image v-image-fix="images" src.bind="rowRef.images"></image>
   </v-row-template>
 </v-grid-col>
       ```
