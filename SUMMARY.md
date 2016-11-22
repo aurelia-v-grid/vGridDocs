@@ -19,6 +19,5 @@
    * [v-header-menu](chap04/v-header-menu.md)
    * [v-row-menu](chap04/v-row-menu.md)
 * [05. Optional CSS classes for custom HTML](chap05/README.md)
-* [06. Internal functions](chap06/README.md)
 * [07. How to install](chap07/README.md)
 
