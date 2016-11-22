@@ -11,7 +11,7 @@
    * [v-header-height](chap02/v-header-height.md)
    * v-footer-height
    * [v-panel-height](chap02/v-panel-height.md)
-   * v-grid-connector
+   * [v-grid-connector](chap02/v-grid-connector.md)
    * v-multi-select
    * v-manual-sel
    * v-theme
