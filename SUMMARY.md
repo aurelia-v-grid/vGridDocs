@@ -10,7 +10,7 @@
    * col-header-name
    * [col-filter](chap02/col-filter.md)
    * [col-filter-top](chap02/col-filter-top.md)
-   * col-css
+   * [col-css](chap02/col-css.md)
    * col-add-row-attributes
    * col-add-filter-attributes
 * [03. Column.bind](chap03/README.md)
