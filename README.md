@@ -1,12 +1,15 @@
-# ```<v-grid>``` Aurelia Plugin
 
-Simple grid for displaying data
+# **Temp dev book to keep track** 
 
-[Live Demo](https://aurelia-ui-toolkits.gitbooks.io/aurelia-v-grid-docs/content/chap02/live_demo_and_gistrun.html)
+
 
 [Gitter channel](https://gitter.im/aurelia-ui-toolkits/aurelia-v-grid)
 
+Current grid:
 [Github Source](https://github.com/aurelia-ui-toolkits/aurelia-v-grid)
+
+Dev rebuild repo
+[Github Source](https://github.com/vegarringdal/vGrid)
 
 
 
