@@ -1,4 +1,4 @@
-# ```<v-grid-context>``` custom context menu
+# ```<v-grid-context>``` custom menu
 
 ```
 <v-grid-context>
