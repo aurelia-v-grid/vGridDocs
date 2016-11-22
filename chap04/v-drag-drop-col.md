@@ -7,8 +7,8 @@ Max 1 per column
 ```
 <v-grid-col col-width="120">
   <v-header-template>
-    <p>Full name</p>
-    <input v-drag-drop-col>
+    <p v-drag-drop-col="title:Full Name; field:name">Full name</p>
+    <input>
   </v-header-template>
   <v-row-template>
     <input value.bind="rowRef.name">
