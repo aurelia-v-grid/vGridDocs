@@ -9,6 +9,7 @@
    * v-panel-height
    * v-grid-connector
    * v-multi-select
+   * v-manual-sel
 * [03. Simple Column HTML](chap03/README.md)
    * [col-width](chap02/col-width.md)
    * [col-type](chap02/col-type.md)
