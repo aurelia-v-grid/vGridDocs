@@ -1,5 +1,4 @@
 # Column.bind
-* [Gist demo with all enabled](https://gist.run/?id=a3f31efc2caf188cacf0e68e37dc4a22)
 
 Column.bind is almost the same as the "simple column HTML". Here you do not add the ```v-grid-col``` element to defined to columns, but you bind a array with properties to make the grid. Lets have a look on how to do this.
 
