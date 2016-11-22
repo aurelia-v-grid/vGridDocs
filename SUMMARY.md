@@ -13,6 +13,7 @@
    * v-theme
    * v-row-on-draw
    * v-columns
+   * v-language
 * [03. Simple Column HTML](chap03/README.md)
    * [col-width](chap02/col-width.md)
    * [col-type](chap02/col-type.md)
