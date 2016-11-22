@@ -11,7 +11,7 @@
    * [col-filter](chap02/col-filter.md)
    * [col-filter-top](chap02/col-filter-top.md)
    * [col-css](chap02/col-css.md)
-   * col-add-row-attributes
+   * [col-add-row-attributes](chap02/col-add-row-attributes.md)
    * col-add-filter-attributes
 * [03. Column.bind](chap03/README.md)
 * [04. Custom Column HTML](chap04/README.md)
