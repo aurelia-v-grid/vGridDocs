@@ -49,4 +49,5 @@
    * [Aurelia-CLI (not asp.core)](chap10/aurelia-cli_not_aspcore.md)
    * [Aurelia-CLI (asp-core)](chap10/aurelia-cli_asp-core.md)
    * [Webpack](chap10/webpack.md)
+* 08 <v-grid-group-row>
 
