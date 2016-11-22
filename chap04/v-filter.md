@@ -6,7 +6,7 @@ next are optional, you can add filter operator, value converter, and "onKeyDown"
 ```html
 <v-grid-col>
   <v-header-template>
-    <input v-filter="field:name;operator:*;converter:myValueConverter;keydown:true">
+    <input v-filter="field:name;operator:*;">
     <p>Full Name</p>
   </v-header-template>
   <v-row-template>
