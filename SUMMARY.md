@@ -43,6 +43,6 @@
 * [10. How to install](chap10/README.md)
    * JSPM
    * Aurelia-CLI (not asp.core)
-   * Aurelia-CLI (asp-core)
+   * [Aurelia-CLI (asp-core)](chap10/aurelia-cli_asp-core.md)
    * [Webpack](chap10/webpack.md)
 
