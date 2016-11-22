@@ -11,10 +11,8 @@
       "path": "../node_modules/aurelia-v-grid/dist/amd",
       "main": "index",
       "resources": [
-       
-  *     todo*
-       
-      ]
+              "**/*.{css,html,js}"
+            ]
     },
   
   ```
