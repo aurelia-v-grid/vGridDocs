@@ -2,11 +2,8 @@
 
 * [Introduction](README.md)
 * [01. About](chap01/README.md)
-* [03. How to use](chap03/README.md)
-   * [Simple Column HTML](chap03/simple_html.md)
-   * [Column.bind](chap03/column-bind.md)
-   * [Custom Column HTML](chap03/custom_html.md)
-   * [Row-repeat](chap03/row-repeat.md)
+* [02. Simple Column HTML](chap02/README.md)
+* [03. Column.bind](chap03/README.md)
 * [04. Custom Column HTML](chap04/README.md)
    * [v-selection](chap04/v-selection.md)
    * [v-sort](chap04/v-sort.md)
