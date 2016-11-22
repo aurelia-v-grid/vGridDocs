@@ -5,6 +5,7 @@
 * [02. How to use](chap02/README.md)
    * v-row-height
    * v-header-height
+   * v-footer-height
 * [03. Simple Column HTML](chap03/README.md)
    * [col-width](chap02/col-width.md)
    * [col-type](chap02/col-type.md)
