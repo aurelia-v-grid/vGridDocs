@@ -9,7 +9,7 @@
    * [col-sort](chap02/col-sort.md)
    * col-header-name
    * [col-filter](chap02/col-filter.md)
-   * col-filter-top
+   * [col-filter-top](chap02/col-filter-top.md)
    * col-css
    * col-add-row-attributes
    * col-add-filter-attributes
