@@ -1,0 +1,7 @@
+{
+    "plugins": [
+        "heading-anchors",
+        "gistrun"
+    ],
+    "pluginsConfig": {}
+}
