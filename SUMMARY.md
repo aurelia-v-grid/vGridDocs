@@ -25,5 +25,6 @@
    * checkbox
    * image
    * input
+   * selection
 * [10. How to install](chap10/README.md)
 
