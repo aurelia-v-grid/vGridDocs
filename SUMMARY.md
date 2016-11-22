@@ -9,6 +9,7 @@
    * col-sort
    * col-header-name
    * col-filter
+   * col-filter-top
 * [03. Column.bind](chap03/README.md)
 * [04. Custom Column HTML](chap04/README.md)
    * [v-selection](chap04/v-selection.md)
