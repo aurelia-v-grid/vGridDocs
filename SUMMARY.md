@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [01. About](chap01/README.md)
 * [02. Simple Column HTML](chap02/README.md)
+   * col-width
 * [03. Column.bind](chap03/README.md)
 * [04. Custom Column HTML](chap04/README.md)
    * [v-selection](chap04/v-selection.md)
