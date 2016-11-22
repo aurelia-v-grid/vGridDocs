@@ -35,20 +35,7 @@ If you use custom HTML columns you can use these to help you get started. Or if 
 
 
 
-####Sample code from picture above
 
-**checkbox** 
-```
-<v-grid-col col-width="70">
-  <v-header-template>
-    <input class="vgrid-row-checkbox-50" v-header-menu="bool" type="checkbox" v-filter="bool|=">
-    <p class="vgrid-label-bottom" v-sort="bool">Bool</p>
-  </v-header-template>
-  <v-row-template>
-    <input class="vgrid-row-checkbox-100" v-row-menu="bool" type="checkbox" checked.bind="rowRef.bool">
-  </v-row-template>
-</v-grid-col>
-```
 
 **image**
 ```
