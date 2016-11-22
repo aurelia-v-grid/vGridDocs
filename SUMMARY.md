@@ -13,7 +13,7 @@
    * [v-panel-height](chap02/v-panel-height.md)
    * [v-grid-connector](chap02/v-grid-connector.md)
    * [v-multi-select](chap02/v-multi-select.md)
-   * v-manual-sel
+   * [v-manual-sel](chap02/v-manual-sel.md)
    * v-theme
    * v-row-on-draw
    * v-columns
