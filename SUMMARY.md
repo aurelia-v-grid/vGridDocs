@@ -36,6 +36,7 @@
    * [v-image-fix](chap04/v-image-fix.md)
    * [v-filter](chap04/v-filter.md)
    * [v-drag-drop-col](chap04/v-drag-drop-col.md)
+   * v-menu
 * [05. Optional CSS classes for custom HTML](chap05/README.md)
    * [checkbox](chap05/checkbox.md)
    * [image](chap05/image.md)
