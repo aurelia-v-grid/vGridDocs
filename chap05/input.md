@@ -2,16 +2,18 @@
 
 ####Sample code from picture below
 
-**checkbox** 
+**input**
 ```
-<v-grid-col col-width="70">
+<v-grid-col col-width="100">
   <v-header-template>
-    <input class="vgrid-row-checkbox-50" v-header-menu="bool" type="checkbox" v-filter="bool|=">
-    <p class="vgrid-label-bottom" v-sort="bool">Bool</p>
+    <input v-header-menu="number" class="vgrid-header-input-top" v-filter="number|>=" value.bind="tempRef.number">
+    <p class="vgrid-label-bottom" v-sort="number">Number</p>
   </v-header-template>
   <v-row-template>
-    <input class="vgrid-row-checkbox-100" v-row-menu="bool" type="checkbox" checked.bind="rowRef.bool">
-  </v-row-template>
+    <input v-row-menu="number" class="vgrid-row-input" 
+      value.bind="rowRef.number | numberFormat  & updateTrigger:'blur':'paste'"
+      css="color:${tempRef.numberColor};font-weight:${tempRef.numberFont}">
+     </v-row-template>
 </v-grid-col>
 ```
 
