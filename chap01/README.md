@@ -10,6 +10,10 @@
 
 
 
+
+---
+
+
 There are three options to create columns for the grid:
 
 **"simple column HTML"** describes the situation where you create a `v-grid` element with some attributes and have `v-grid-col` elements inside it. This approach adds some properties ans styles by default to make it simple to use.
@@ -60,7 +64,7 @@ There are three options to create columns for the grid:
 ```
 
 With custom html you can use custom attributes and css classes to have direct and easy control.
-We will cover the different custom attributes and what they do in another chapter. (**link to chapter**)
+We will cover the different custom attributes and what they do in another chapter.
 
 
 
