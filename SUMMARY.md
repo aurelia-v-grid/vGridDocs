@@ -42,7 +42,7 @@
    * [image](chap05/image.md)
    * [input](chap05/input.md)
    * [selection](chap05/selection.md)
-* [06. <v-grid-row-repeat> custom css help](chap06/README.md)
+* [06. <v-grid-row-repeat>](chap06/README.md)
 * [07. <v-grid-context> custom context menu](chap07/README.md)
 * [10. How to install](chap10/README.md)
    * [JSPM](chap10/jspm.md)
