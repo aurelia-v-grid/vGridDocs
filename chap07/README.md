@@ -4,13 +4,13 @@ This chapter shows how to add/install the grid to your own project.
 ---
 ###JSPM:
  *-Tested with esnext skeleton:**working***
-* Run: ````jspm install aurelia-v-grid=github:aurelia-ui-toolkits/aurelia-v-grid```
+* Run: ````jspm install aurelia-v-grid=github:vegarringdal/vGrid```
 * In ```main.js``` add ```.plugin('aurelia-v-grid')```
 
 ---
 ###Aurelia-CLI (not asp.core)
 *-Tested with esnext default :**working***
-* Run: ```npm install git://github.com/aurelia-ui-toolkits/aurelia-v-grid.git --save```
+* Run: ```npm install git://github.com/vegarringdal/vGrid.git --save```
 * In ```main.js``` add ```.plugin('aurelia-v-grid')```
 * Add to aurelia_project/aurelia.json
 ```
@@ -44,7 +44,7 @@ This chapter shows how to add/install the grid to your own project.
 
 ###Aurelia-CLI (asp-core)
 *-Tested with esnext default :**working***
-* Run: ```npm install git://github.com/aurelia-ui-toolkits/aurelia-v-grid.git --save```
+* Run: ```npm install git://github.com/vegarringdal/vGrid.git --save```
 * In ```main.js``` add ```.plugin('aurelia-v-grid')```
 * Add to aurelia_project/aurelia.json
 ```
@@ -108,7 +108,7 @@ This chapter shows how to add/install the grid to your own project.
 
 ###Webpack
 *-Tested with esnext skeleton:**working***
-* Run: ```npm install git://github.com/aurelia-ui-toolkits/aurelia-v-grid.git --save```
+* Run: ```npm install git://github.com/vegarringdal/vGrid.git --save```
 * In ```main.js``` add ```.plugin('aurelia-v-grid')```
 
 ---
