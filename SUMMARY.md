@@ -41,4 +41,5 @@
    * [input](chap05/input.md)
    * [selection](chap05/selection.md)
 * [10. How to install](chap10/README.md)
+   * JSPM
 
