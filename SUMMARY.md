@@ -41,7 +41,7 @@
    * [input](chap05/input.md)
    * [selection](chap05/selection.md)
 * [10. How to install](chap10/README.md)
-   * JSPM
+   * [JSPM](chap10/jspm.md)
    * [Aurelia-CLI (not asp.core)](chap10/aurelia-cli_not_aspcore.md)
    * [Aurelia-CLI (asp-core)](chap10/aurelia-cli_asp-core.md)
    * [Webpack](chap10/webpack.md)
