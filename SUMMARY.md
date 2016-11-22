@@ -24,6 +24,6 @@
 * [05. Optional CSS classes for custom HTML](chap05/README.md)
    * checkbox
    * image
-   * inputs-row
+   * input
 * [10. How to install](chap10/README.md)
 
