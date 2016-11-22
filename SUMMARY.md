@@ -16,7 +16,7 @@
    * [v-manual-sel](chap02/v-manual-sel.md)
    * [v-theme](chap02/v-theme.md)
    * [v-row-on-draw](chap02/v-row-on-draw.md)
-   * v-columns
+   * [v-columns](chap02/v-columns.md)
    * v-language
 * [03. Simple Column HTML](chap03/README.md)
    * [col-width](chap02/col-width.md)
