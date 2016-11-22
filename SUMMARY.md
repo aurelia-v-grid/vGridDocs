@@ -9,8 +9,8 @@
 * [02. v-grid attributes](chap02/README.md)
    * [v-row-height](chap02/v-row-height.md)
    * [v-header-height](chap02/v-header-height.md)
-   * [v-footer-height](chap02/v-footer-height.md)
-   * v-panel-height
+   * v-footer-height
+   * [v-panel-height](chap02/v-panel-height.md)
    * v-grid-connector
    * v-multi-select
    * v-manual-sel
