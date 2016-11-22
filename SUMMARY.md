@@ -42,4 +42,5 @@
    * [selection](chap05/selection.md)
 * [10. How to install](chap10/README.md)
    * JSPM
+   * Aurelia-CLI (not asp.core)
 
