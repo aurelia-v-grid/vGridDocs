@@ -7,11 +7,11 @@
 ```
 <v-grid-col col-width="70">
   <v-header-template>
-    <input class="vgrid-row-checkbox-50" v-header-menu="bool" type="checkbox" v-filter="bool|=">
-    <p class="vgrid-label-bottom" v-sort="bool">Bool</p>
+    <input class="avg-row-checkbox-50" type="checkbox">
+    <p class="avg-label-bottom">Bool</p>
   </v-header-template>
   <v-row-template>
-    <input class="vgrid-row-checkbox-100" v-row-menu="bool" type="checkbox" checked.bind="rowRef.bool">
+    <input class="avg-row-checkbox-100" type="checkbox" checked.bind="rowRef.bool">
   </v-row-template>
 </v-grid-col>
 ```
