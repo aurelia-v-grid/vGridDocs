@@ -11,7 +11,6 @@
    * [v-selection](chap04/v-selection.md)
    * [v-sort](chap04/v-sort.md)
    * [v-resize-col](chap04/v-resize-col.md)
-   * [v-key-move](chap04/v-key-move.md)
    * [v-image-fix](chap04/v-image-fix.md)
    * [v-filter](chap04/v-filter.md)
    * [v-drag-drop-col](chap04/v-drag-drop-col.md)
