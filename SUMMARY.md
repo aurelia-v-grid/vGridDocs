@@ -6,6 +6,7 @@
    * col-width
    * col-type
    * col-field
+   * col-sort
 * [03. Column.bind](chap03/README.md)
 * [04. Custom Column HTML](chap04/README.md)
    * [v-selection](chap04/v-selection.md)
