@@ -25,6 +25,6 @@
    * [checkbox](chap05/checkbox.md)
    * [image](chap05/image.md)
    * [input](chap05/input.md)
-   * selection
+   * [selection](chap05/selection.md)
 * [10. How to install](chap10/README.md)
 
