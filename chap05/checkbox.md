@@ -1,6 +1,7 @@
 # checkbox
 
-####Sample code from picture above
+
+####Sample code from picture below
 
 **checkbox** 
 ```
@@ -14,3 +15,6 @@
   </v-row-template>
 </v-grid-col>
 ```
+
+(todo: replace picture, "vgrid-" needs to be "avg-")
+![classes image](cssclasses.png)
