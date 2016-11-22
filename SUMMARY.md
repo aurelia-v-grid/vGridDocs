@@ -44,5 +44,5 @@
    * JSPM
    * Aurelia-CLI (not asp.core)
    * Aurelia-CLI (asp-core)
-   * Webpack
+   * [Webpack](chap10/webpack.md)
 

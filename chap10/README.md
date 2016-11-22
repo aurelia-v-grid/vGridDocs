@@ -106,16 +106,7 @@ This chapter shows how to add/install the grid to your own project.
 
 
 
-###Webpack
-*-Tested with esnext skeleton:**working***
-* Run: ```npm install git://github.com/vegarringdal/vGrid.git --save```
-* In ```main.js``` add ```.plugin('aurelia-v-grid')```
+
 
 ---
-
-###Without installing
-*-Tested with aurelia-CLI:**working**, and prb all other esnext except typescript*
-* If you dont want to install it, and just want to copy and run you can do this:
-* Copy "vGrid" folder here over to "src" in skeleton from here: [link](https://github.com/aurelia-ui-toolkits/aurelia-v-grid/tree/master/src)
-* In ```main.js``` add ```.plugin('vGrid/plugin')```
 
