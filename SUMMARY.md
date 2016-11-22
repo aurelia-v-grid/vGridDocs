@@ -14,7 +14,6 @@
    * [v-image-fix](chap04/v-image-fix.md)
    * [v-filter](chap04/v-filter.md)
    * [v-drag-drop-col](chap04/v-drag-drop-col.md)
-   * [v-row-menu](chap04/v-row-menu.md)
 * [05. Optional CSS classes for custom HTML](chap05/README.md)
 * [07. How to install](chap07/README.md)
 
