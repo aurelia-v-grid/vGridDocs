@@ -39,7 +39,6 @@ For the HTML we skip the ```v-grid-col``` element and bind out ```columnSetup```
    style="height:350px;width:500px"
    v-row-height="25"
    v-header-height="50"
-   v-collection.bind=myCollection
    v-columns.bind=columnSetup>
 </v-grid>
 ```
