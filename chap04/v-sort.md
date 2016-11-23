@@ -1,5 +1,6 @@
 # v-sort
 For adding sort icon and making the grid sort when header label is clicked
+
 ```asc``` are optional, default is "true".
 
 ```html
