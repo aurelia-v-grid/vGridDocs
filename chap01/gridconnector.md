@@ -2,6 +2,10 @@
 
 
 
+todo
+
+write how this connects the grid with datasource/selection, this will also be replaceable like datasource later
+
 
 
 
