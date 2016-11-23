@@ -31,7 +31,7 @@
    * [col-add-filter-attributes](chap02/col-add-filter-attributes.md)
    * col-filter-menu
    * col-label-menu
-   * colRowMenu
+   * col-row-menu
    * colHidden
    * colDragDrop
 * [04. <v-grid-col> custom](chap04/README.md)
