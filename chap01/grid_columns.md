@@ -17,14 +17,7 @@ There are three options to create columns for the grid:
 ```
 
 
-**"columns.bind"** describes the situation where you bind an array to one of the attributes in the main ```v-grid``` element. This option is provided for the case where you do not want to write any HTML code at all and do the most of your actions in your model.
-
-```html
-<v-grid>
-  x-attributes
-  v-columns.bind="nameOfMyColumnArray"
-</v-grid>
-```
+> NOTE* You can also bind array for making the columns, se attribute v-columns
 
 **"custom column html"** option allows you use the `v-grid-col` and add `v-row-template` and `v-header-template` inside that to control what is displayed in column in row and header.
 
