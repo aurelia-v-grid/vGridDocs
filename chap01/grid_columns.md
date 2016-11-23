@@ -22,7 +22,7 @@ There are three options to create columns for the grid:
 ```html
 <v-grid>
   x-attributes
-  column.bind="nameOfMyColumnArray"
+  v-columns.bind="nameOfMyColumnArray"
 </v-grid>
 ```
 
