@@ -30,7 +30,7 @@
    * [col-add-row-attributes](chap02/col-add-row-attributes.md)
    * [col-add-filter-attributes](chap02/col-add-filter-attributes.md)
    * col-filter-menu
-   * colLabelMenu
+   * col-label-menu
    * colRowMenu
    * colHidden
    * colDragDrop
