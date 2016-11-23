@@ -32,7 +32,7 @@
    * [col-filter-menu](chap03/col-filter-menu.md)
    * [col-label-menu](chap03/col-label-menu.md)
    * [col-row-menu](chap03/col-row-menu.md)
-   * col-hidden
+   * [col-hidden](chap03/col-hidden.md)
    * col-drag-drop
    * col-resizeable
 * [04. <v-grid-col> custom](chap04/README.md)
