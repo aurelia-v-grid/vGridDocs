@@ -13,5 +13,4 @@ To be used with image elements in row, this will just help update the image fast
 </v-grid-col>
       ```
       
-      
-   ![imagefix](Animation-imagefix.gif)
+ 
