@@ -32,7 +32,7 @@
    * col-filter-menu
    * col-label-menu
    * col-row-menu
-   * colHidden
+   * col-hidden
    * colDragDrop
 * [04. <v-grid-col> custom](chap04/README.md)
    * [v-selection](chap04/v-selection.md)
