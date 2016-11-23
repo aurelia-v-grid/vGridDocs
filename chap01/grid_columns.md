@@ -17,7 +17,7 @@ There are three options to create columns for the grid:
 ```
 
 
-**"column.bind"** describes the situation where you bind an array to one of the attributes in the main ```v-grid``` element. This option is provided for the case where you do not want to write any HTML code at all and do the most of your actions in your model.
+**"columns.bind"** describes the situation where you bind an array to one of the attributes in the main ```v-grid``` element. This option is provided for the case where you do not want to write any HTML code at all and do the most of your actions in your model.
 
 ```html
 <v-grid>
