@@ -34,7 +34,7 @@
    * [col-row-menu](chap03/col-row-menu.md)
    * [col-hidden](chap03/col-hidden.md)
    * [col-drag-drop](chap03/col-drag-drop.md)
-   * col-resizeable
+   * [col-resizeable](chap03/col-resizeable.md)
 * [04. <v-grid-col> custom](chap04/README.md)
    * [v-selection](chap04/v-selection.md)
    * [v-sort](chap04/v-sort.md)
