@@ -31,6 +31,7 @@
    * [col-add-filter-attributes](chap02/col-add-filter-attributes.md)
    * colFilterMenu
    * colLabelMenu
+   * colRowMenu
 * [04. <v-grid-col> custom](chap04/README.md)
    * [v-selection](chap04/v-selection.md)
    * [v-sort](chap04/v-sort.md)
