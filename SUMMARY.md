@@ -29,7 +29,7 @@
    * [col-css](chap02/col-css.md)
    * [col-add-row-attributes](chap02/col-add-row-attributes.md)
    * [col-add-filter-attributes](chap02/col-add-filter-attributes.md)
-   * colFilterMenu
+   * col-filter-menu
    * colLabelMenu
    * colRowMenu
    * colHidden
