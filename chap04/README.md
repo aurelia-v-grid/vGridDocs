@@ -2,7 +2,7 @@
 
 Works almost just the same as simple column HTML
 
-Main difference is when you define the columns you add html inside the ```V-grid-col```.
+Main difference is when you define the columns you add html inside the ```v-grid-col```.
 Only attribute that is common for this and "simple column HTML" is the ```col-width```
 
 You can mix "custom HTML" and "simple column HTML"
