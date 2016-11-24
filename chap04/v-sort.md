@@ -14,3 +14,4 @@ For adding sort icon and making the grid sort when header label is clicked
 </v-grid-col>
 
 ```
+![](../vgridanimation/v-sort-animation.gif)
