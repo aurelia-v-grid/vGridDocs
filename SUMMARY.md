@@ -29,7 +29,7 @@
    * [col-css](chap03/col-css.md)
    * [col-add-row-attributes](chap03/col-add-row-attributes.md)
    * [col-add-filter-attributes](chap03/col-add-filter-attributes.md)
-   * col-add-label-attributes
+   * [col-add-label-attributes](chap03/col-add-label-attributes.md)
    * [col-filter-menu](chap03/col-filter-menu.md)
    * [col-label-menu](chap03/col-label-menu.md)
    * [col-row-menu](chap03/col-row-menu.md)
