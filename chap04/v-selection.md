@@ -20,3 +20,4 @@ You also need to set "single" or "multiple" selection to grid and manual selecti
 
 if you dont make a selection column you highlight with the help of shift and control buttons
 
+![](../vgridanimation/v-selection-animation.gif)
