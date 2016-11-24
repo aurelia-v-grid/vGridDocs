@@ -15,3 +15,4 @@ Max 1 per column
   </v-row-template>
 </v-grid-col>
 ```
+![](../vgridanimation/v-resize-col-animation.gif)
