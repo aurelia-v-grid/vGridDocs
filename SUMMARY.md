@@ -56,7 +56,7 @@
    * [<v-menu-close>](chap07/v-menu-close.md)
    * [<v-menu-groupby>](chap07/v-menu-groupby.md)
    * [<v-menu-sort>](chap07/v-menu-sort.md)
-   * <v-menu-filter>
+   * [<v-menu-filter>](chap07/v-menu-filter.md)
    * <v-menu-filter-options>
    * <v-menu-all>
 * [08. <v-grid-group-row> custom group row](chap08/README.md)
