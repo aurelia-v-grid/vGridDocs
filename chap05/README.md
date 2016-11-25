@@ -1,4 +1,7 @@
-# Optional CSS classes for custom HTML
+# ```<v-grid-col>```
+
+###Optional CSS classes for custom HTML
+
 Here is the internal classes grid uses for when it generates the HTML cell markup for you in **"simple HTML"** and **"column.bind"**.
 If you use custom HTML columns you can use these to help you get started. Or if you use **"simple HTML"** columns and combine it with 1 custom HTML and need it to look the same.
 
