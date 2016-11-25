@@ -39,7 +39,7 @@ export class Welcome {
       hired:false
     }]
     
-    // create datasource
+    // create datasource (you could just inject this from somewhere else)
     this.ds = new DataSource(new Selection('multiple'));
     
     //create grid connector
