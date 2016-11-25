@@ -67,4 +67,5 @@
    * [Aurelia-CLI (not asp.core)](chap15/aurelia-cli_not_aspcore.md)
    * [Aurelia-CLI (asp-core)](chap15/aurelia-cli_asp-core.md)
    * [Webpack](chap15/webpack.md)
+* 11. <v-grid-loading-screen> custom
 
