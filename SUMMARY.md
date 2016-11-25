@@ -58,6 +58,7 @@
    * <v-menu-sort>
    * <v-menu-filter>
    * <v-menu-filter-options>
+   * <v-menu-all>
 * [08. <v-grid-group-row> custom group row](chap08/README.md)
 * [09. <v-grid-group-element> custom group element](chap09/README.md)
 * [10. <v-grid-footer> custom](chap10/README.md)
