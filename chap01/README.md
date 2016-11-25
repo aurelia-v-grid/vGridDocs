@@ -13,13 +13,11 @@ Say something how its all connected, datasource, gridconnector
 show sample on how to get someting displayed
 
 ```
-import { autoinject } from 'aurelia-framework';
 import { GridConnector } from 'aurelia-v-grid';
 import { DataSource } from 'aurelia-v-grid';
 import { Selection } from 'aurelia-v-grid';
 
 
-@autoinject()
 export class Welcome {
 
   public ds: DataSource;
