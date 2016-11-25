@@ -13,3 +13,5 @@
   
 </v-grid>
 ```
+
+Next pages will show all the attributes we have, and how/what they do.
