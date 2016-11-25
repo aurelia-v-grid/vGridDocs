@@ -1,4 +1,6 @@
-# Simple Column HTML
+# ```<v-grid-col>```
+
+###Simple Column HTML
 
 "Simple column HTML" is where we let the grid do the most of the work for us when it comes to adding css classes/markup. We only add ```<v-grid-col>``` inside the ```<v-grid>``` element with some attributes. Lets look on a small sample to get started.
 
