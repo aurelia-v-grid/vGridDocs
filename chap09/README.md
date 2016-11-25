@@ -1,6 +1,9 @@
 # Custom grouping element
 
+For creating custom grouping element in panel
+Place it inside grid element, just like the ```<v-grid-col>``` elements fro creating columns
 
+Sample:
 ```
 <v-grid-group-element>
   <div class="avg-grouping">  
@@ -11,4 +14,6 @@
     </p>
   </div>
 </v-grid-group-element>
-        ```
+```
+
+![](../vgridanimation/custom-grouping-element.png)
