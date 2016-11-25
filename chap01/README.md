@@ -17,7 +17,7 @@ import { autoinject } from 'aurelia-framework';
 import { GridConnector } from 'aurelia-v-grid';
 import { DataSource } from 'aurelia-v-grid';
 import { Selection } from 'aurelia-v-grid';
-import { DummyDataGenerator } from './utils/dummyDataGenerator';
+
 
 @autoinject()
 export class Welcome {
@@ -26,12 +26,20 @@ export class Welcome {
   public gridConnector: GridConnector;
   private myCollection: any;
   
-  constructor(public dummyDataGenerator: DummyDataGenerator) {
+  constructor() {
     
     //dummy data
-    this.dummyDataGenerator.generateData(5000, (data) => {
-      this.myCollection = data;
-    });
+    this.collection = [{
+      name:'Vegar',
+      number: 5425.25,
+      country:'Norway',
+      hired:true
+      },{
+      name:'Lars',
+      number: 545.45,
+      country:'Sweden',
+      hired:false
+    }]
     
     // create datasource
     this.ds = new DataSource(new Selection('multiple'));
@@ -59,8 +67,7 @@ export class Welcome {
         v-footer-height="25" 
         style="height:400px;width:400px">
         <v-grid-col col-field="bool | booleanFormatter"></v-grid-col>
-        <v-grid-col col-filter-menu="filter:guid"col-field="guid"></v-grid-col>
-        <v-grid-col col-field="images"></v-grid-col>
+        <v-grid-col col-filter-menu="filter:"country"col-field="country"></v-grid-col>
         <v-grid-col col-field="name"></v-grid-col>
         <v-grid-col col-field="number"></v-grid-col>
       </v-grid>
