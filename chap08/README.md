@@ -1,5 +1,8 @@
 # Custom group row
 
+For creating custom grouping row
+Place it inside grid element, just like the ```<v-grid-col>``` elements fro creating columns
+Rows are 100% wide
 
 ```
 <v-grid-group-row>
@@ -11,4 +14,8 @@
   </i>&nbsp;${rowRef.__groupName} (${rowRef.__groupTotal})
 </v-grid-group-row>
  ```
+ 
+ ![](../vgridanimation/custom-grouping-row.png)
+ 
+ 
  
