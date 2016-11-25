@@ -63,6 +63,7 @@
 * [09. <v-grid-group-element> custom group element](chap09/README.md)
 * [10. <v-grid-footer> custom](chap10/README.md)
 * [11. <v-grid-loading-screen> custom](chap11/README.md)
+* [15 Install](chap15/README.md)
    * [JSPM](chap15/jspm.md)
    * [Aurelia-CLI (not asp.core)](chap15/aurelia-cli_not_aspcore.md)
    * [Aurelia-CLI (asp-core)](chap15/aurelia-cli_asp-core.md)
