@@ -55,7 +55,7 @@
 * [07. <v-grid-context> custom menu](chap07/README.md)
    * [<v-menu-close>](chap07/v-menu-close.md)
    * [<v-menu-groupby>](chap07/v-menu-groupby.md)
-   * <v-menu-sort>
+   * [<v-menu-sort>](chap07/v-menu-sort.md)
    * <v-menu-filter>
    * <v-menu-filter-options>
    * <v-menu-all>
