@@ -1,4 +1,6 @@
-# Custom Column HTML
+# ```<v-grid-col>```
+
+###Custom Column HTML
 
 Works almost just the same as simple column HTML
 
