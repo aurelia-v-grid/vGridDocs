@@ -1,4 +1,6 @@
-# Custom group row
+# ```<v-grid-group-row>```
+
+###Custom group row
 
 For creating custom grouping row
 Place it inside grid element, just like the ```<v-grid-col>``` elements fro creating columns
