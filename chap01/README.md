@@ -53,7 +53,7 @@ export class Welcome {
 }
 ```
 
-
+You should add valueConverter to keep number as number, and boolean as boolean, else the values will be converted to string by aurelia binding system, unless you use some custom datasource with the grid
 ```
 <template>
       <v-grid 
@@ -64,10 +64,10 @@ export class Welcome {
         v-panel-height="25"
         v-footer-height="25" 
         style="height:400px;width:400px">
-        <v-grid-col col-field="bool"></v-grid-col>
+        <v-grid-col col-field="bool | booleanConverter"></v-grid-col>
         <v-grid-col col-filter-menu="filter:"country"col-field="country"></v-grid-col>
         <v-grid-col col-field="name"></v-grid-col>
-        <v-grid-col col-field="number"></v-grid-col>
+        <v-grid-col col-field="number  | numberConverter"></v-grid-col>
       </v-grid>
 </template>
 
