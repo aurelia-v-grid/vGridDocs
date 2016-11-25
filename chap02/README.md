@@ -1,6 +1,6 @@
 # ```<V-GRID>``` 
 
-###attributes
+###Attributes
 
 
 todo... write about the attributes you can use on main element
