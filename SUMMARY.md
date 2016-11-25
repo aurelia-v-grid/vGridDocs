@@ -37,7 +37,7 @@
    * [col-drag-drop](chap03/col-drag-drop.md)
    * [col-resizeable](chap03/col-resizeable.md)
    * [col-pin-left](chap03/col-pin-left.md)
-   * col-pin-right
+   * [col-pin-right](chap03/col-pin-right.md)
 * [04. <v-grid-col> custom](chap04/README.md)
    * [v-selection](chap04/v-selection.md)
    * [v-sort](chap04/v-sort.md)
