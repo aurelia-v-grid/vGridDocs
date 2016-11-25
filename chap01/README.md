@@ -64,7 +64,7 @@ export class Welcome {
         v-panel-height="25"
         v-footer-height="25" 
         style="height:400px;width:400px">
-        <v-grid-col col-field="bool | booleanFormatter"></v-grid-col>
+        <v-grid-col col-field="bool"></v-grid-col>
         <v-grid-col col-filter-menu="filter:"country"col-field="country"></v-grid-col>
         <v-grid-col col-field="name"></v-grid-col>
         <v-grid-col col-field="number"></v-grid-col>
