@@ -1,4 +1,6 @@
-# Custom grouping element
+#```<v-grid-group-element>```
+
+###Custom grouping element
 
 For creating custom grouping element in panel
 Place it inside grid element, just like the ```<v-grid-col>``` elements fro creating columns
