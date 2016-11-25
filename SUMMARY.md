@@ -53,6 +53,7 @@
    * [selection](chap05/selection.md)
 * [06. <v-grid-row-repeat>](chap06/README.md)
 * [07. <v-grid-context> custom menu](chap07/README.md)
+   * <v-menu-close>
 * [08. <v-grid-group-row> custom group row](chap08/README.md)
 * [09. <v-grid-group-element> custom group element](chap09/README.md)
 * [10. <v-grid-footer> custom](chap10/README.md)
@@ -61,5 +62,4 @@
    * [Aurelia-CLI (not asp.core)](chap15/aurelia-cli_not_aspcore.md)
    * [Aurelia-CLI (asp-core)](chap15/aurelia-cli_asp-core.md)
    * [Webpack](chap15/webpack.md)
-
 
