@@ -12,6 +12,4 @@ Dev rebuild repo
 [Github Source](https://github.com/vegarringdal/vGrid)
 
 
-
-
-![image](Animation.gif)
+![](vgridanimation/v-drag-drop-grouping-animation.gif)
