@@ -53,7 +53,7 @@
    * [selection](chap05/selection.md)
 * [06. <v-grid-row-repeat>](chap06/README.md)
 * [07. <v-grid-context> custom menu](chap07/README.md)
-   * <v-menu-close>
+   * [<v-menu-close>](chap07/v-menu-close.md)
    * <v-menu-groupby>
    * <v-menu-sort>
    * <v-menu-filter>
