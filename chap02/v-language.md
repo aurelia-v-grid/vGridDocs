@@ -1,9 +1,36 @@
-# v-language
+# v-i18n
 
-To use v-translate.bind="myObject" as a attibute on the v-grid
+To translate menus and placeholders, use the ```this.gridConnector.triggerI18n();``` to trigger the grid to ask for new keys/translation if you change language
 
+add to v-grid element
+```html
+v-i18n.call="translateI18n($event)"
 
 ```
+
+quick sample
+```javascript
+// this is the i18N translation
+  public translateI18n(key: string) {
+    return this.testString;
+  }
+
+  //this is called by my button... not very good
+  public translate() {
+    if (this.testString === 'cool') {
+      this.testString = 'yay';
+    } else {
+      this.testString = 'cool';
+    }
+    // this will trigger the grid to ask for every translation key
+    this.gridConnector.triggerI18n();
+  }
+
+```
+
+
+Default keys inside the grid
+```javasrcipt
 myObject = {
         close: 'Close',
         pinLeft: 'Pin left',
