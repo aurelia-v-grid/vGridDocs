@@ -8,7 +8,7 @@ v-i18n.call="translateI18n($event)"
 
 ```
 
-quick sample
+quick sample of code in you page (boring translation... but something)
 ```javascript
 // this is the i18N translation
   public translateI18n(key: string) {
