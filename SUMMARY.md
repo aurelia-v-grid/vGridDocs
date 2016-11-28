@@ -6,7 +6,7 @@
    * [datasource](chap01/datasource.md)
    * [selection](chap01/selection.md)
    * [gridConnector](chap01/gridconnector.md)
-* [02. &ltv-grid&gt attributes](chap02/README.md)
+* [02. &lt v-grid &gt attributes](chap02/README.md)
    * [v-row-height](chap02/v-row-height.md)
    * [v-header-height](chap02/v-header-height.md)
    * [v-footer-height](chap02/v-footer-height.md)
