@@ -1,7 +1,8 @@
 {
     "plugins": [
         "heading-anchors",
-        "gistrun"
+        "gistrun",
+        "collapsible-menu"
     ],
     "pluginsConfig": {}
 }
