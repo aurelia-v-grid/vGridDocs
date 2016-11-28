@@ -17,7 +17,7 @@
    * [v-theme](chap02/v-theme.md)
    * [v-row-on-draw](chap02/v-row-on-draw.md)
    * [v-columns](chap02/v-columns.md)
-   * [v-language](chap02/v-language.md)
+   * [v-i18n](chap02/v-language.md)
 * [03. <v-grid-col> simple](chap03/README.md)
    * [col-width](chap03/col-width.md)
    * [col-type](chap03/col-type.md)
@@ -68,5 +68,4 @@
    * [Aurelia-CLI (not asp.core)](chap15/aurelia-cli_not_aspcore.md)
    * [Aurelia-CLI (asp-core)](chap15/aurelia-cli_asp-core.md)
    * [Webpack](chap15/webpack.md)
-
 
