@@ -18,7 +18,7 @@
    * [v-row-on-draw](chap02/v-row-on-draw.md)
    * [v-columns](chap02/v-columns.md)
    * [v-i18n](chap02/v-language.md)
-   * v-data-delay
+   * [v-data-delay](chap02/v-data-delay.md)
 * [03. &ltv-grid-col&gt simple](chap03/README.md)
    * [col-width](chap03/col-width.md)
    * [col-type](chap03/col-type.md)
