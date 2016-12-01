@@ -35,7 +35,7 @@
    * [col-label-menu](chap03/col-label-menu.md)
    * [col-row-menu](chap03/col-row-menu.md)
    * [col-hidden](chap03/col-hidden.md)
-   * [col-drag-drop](chap03/col-drag-drop.md)
+   * [col-drag-drop (& grouping)](chap03/col-drag-drop.md)
    * [col-resizeable](chap03/col-resizeable.md)
    * [col-pin-left](chap03/col-pin-left.md)
    * [col-pin-right](chap03/col-pin-right.md)
