@@ -1,4 +1,4 @@
-# col-drag-drop
+# col-drag-drop (& grouping)
 
 
 ```
