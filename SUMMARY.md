@@ -47,6 +47,7 @@
    * [v-filter](chap04/v-filter.md)
    * [v-drag-drop-col](chap04/v-drag-drop-col.md)
    * [v-menu](chap04/v-menu.md)
+   * v-filter-trigger
 * [05. &ltv-grid-col&gt custom css help](chap05/README.md)
    * [checkbox](chap05/checkbox.md)
    * [image](chap05/image.md)
