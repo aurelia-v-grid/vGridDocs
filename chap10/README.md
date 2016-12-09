@@ -1,3 +1,4 @@
-#```<v-grid-footer>```
+# `<v-grid-footer>`
 
-TODO, this part is not coded yet
+add inside v-grid element to use \`\`\`&lt;v-grid-footer&gt;whatever&lt;/v-grid-footer&gt;
+
