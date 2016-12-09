@@ -1,9 +1,6 @@
-# ```<v-grid-loading-screen>```
+# `<v-grid-loading-screen>`
 
-todo, not coded yet
-
-
-will be this part
-
+add inside v-grid element to use \`\`\`&lt;v-grid-loadingscreen&gt;whatever&lt;/v-grid-loadingscreen&gt;
 
 ![](../vgridanimation/loading screen.png)
+
