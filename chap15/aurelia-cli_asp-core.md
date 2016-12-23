@@ -1,7 +1,7 @@
 # Aurelia-CLI (asp-core)
 
 *-Tested with esnext default :**not tested***
-* Run: ```npm install git://github.com/vegarringdal/vGrid.git --save```
+* Run: ```npm install git://github.com/vegarringdal/vGrid.git#dev-rebuild --save```
 * In ```main.js``` add ```.plugin('aurelia-v-grid')```
 * Add to aurelia_project/aurelia.json
 ```
