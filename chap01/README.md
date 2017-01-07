@@ -65,7 +65,7 @@ You should add valueConverter to keep number as number, and boolean as boolean, 
         v-footer-height="25" 
         style="height:400px;width:400px">
         <v-grid-col col-field="bool | booleanConverter"></v-grid-col>
-        <v-grid-col col-filter-menu="filter:"country"col-field="country"></v-grid-col>
+        <v-grid-col col-filter-menu="filter:country"col-field="country"></v-grid-col>
         <v-grid-col col-field="name"></v-grid-col>
         <v-grid-col col-field="number  | numberConverter"></v-grid-col>
       </v-grid>
