@@ -5,11 +5,14 @@
 * In ```main.js``` add ```.plugin('aurelia-v-grid')```
 * Add to aurelia_project/aurelia.json
 ```
-  {
-    "name": "aurelia-v-grid",
-    "path": "../node_modules/aurelia-v-grid/dist/amd",
-    "main": "index"
-  }```
+        {
+         "name": "aurelia-v-grid",
+          "path": "../node_modules/aurelia-v-grid/dist/amd",
+          "main": "index",
+          "resources": [
+            "**/*.{css,html,js}"
+          ]
+        }```
 
 ---
 * set stub to false in the loader/plugins in aurelia_project/aurelia.json
