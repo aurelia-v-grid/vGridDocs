@@ -46,7 +46,7 @@ export class Welcome {
     this.gridConnector = new GridConnector(this.ds);
     
     // set data to the datasource, you dont need to set data now, you can do it later...
-    this.ds.setArray(this.myCollection);
+    this.ds.setArray(this.collection);
   }
 
 
