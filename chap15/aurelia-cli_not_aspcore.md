@@ -1,6 +1,7 @@
 # Aurelia-CLI (not asp.core)
 
-*-Tested with esnext default :**not tested***
+*-Tested with esnext default :**tested***
+* During development Im testing a remote datasource, so you also need o add ""aurelia-fetch-client" to project, will remove later
 * Run: ```npm install git://github.com/vegarringdal/vGrid.git#dev-rebuild --save```
 * In ```main.js``` add ```.plugin('aurelia-v-grid')```
 * Add to aurelia_project/aurelia.json
