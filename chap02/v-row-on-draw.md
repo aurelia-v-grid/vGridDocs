@@ -23,3 +23,9 @@ v-row-on-draw.call="onRowDraw($event)"
     }
   }
   ```
+  
+  in row you can add css attribute
+  
+  ```
+  col-css="color:${tempRef.numberColor};font-weight:${tempRef.numberFont}"
+  ```
