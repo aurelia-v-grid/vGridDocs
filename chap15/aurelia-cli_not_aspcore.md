@@ -23,6 +23,7 @@
             "grid/attributes/v-filter.js",
             "grid/attributes/v-filter-observer.js",
             "grid/attributes/v-image.js",
+            "grid/attributes/v-onchanged.js",
             "grid/attributes/v-menu.js",
             "grid/attributes/v-resize-col.js",
             "grid/attributes/v-sort.js",
