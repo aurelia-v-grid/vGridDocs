@@ -1,5 +1,7 @@
 # Webpack
 
+// todo, I prb need to update package jsn in resources with same as aurelia-cli resources...
+
 
 ###Webpack
 *-Tested with esnext skeleton:**not tested***
