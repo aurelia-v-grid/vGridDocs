@@ -25,6 +25,7 @@
             "grid/attributes/v-image.js",
             "grid/attributes/v-menu.js",
             "grid/attributes/v-resize-col.js",
+            "grid/attributes/v-changed.js",
             "grid/attributes/v-sort.js",
             "grid/attributes/v-selection.js",
             "grid/styles/cellsAndLabels.css",
