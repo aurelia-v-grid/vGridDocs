@@ -1,3 +1,25 @@
 # v-row-on-draw
 
-callback, works like old grid function withthe same name, you get the tempRef here, so edits to data does not really make changes to the actual data, use it for styling etc
+Can be used to set tempRef data to use for  styling etc
+
+Add to ```<v-grid>``` element:
+```
+v-row-on-draw.call="onRowDraw($event)"
+```
+
+
+```
+ onRowDraw(data) {
+    if (data) {
+      if (data.tempRef) {
+        if (data.tempRef.number > 100) {
+          data.tempRef.numberColor = "green";
+          data.tempRef.numberFont = "normal";
+        } else {
+          data.tempRef.numberColor = "red";
+          data.tempRef.numberFont = "bold";
+        }
+      }
+    }
+  }
+  ```
