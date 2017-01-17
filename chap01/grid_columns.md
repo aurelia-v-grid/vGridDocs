@@ -1,4 +1,4 @@
-# grid columns
+# Grid columns
 
 
 There are three options to create columns for the grid:
