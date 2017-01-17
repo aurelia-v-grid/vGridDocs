@@ -28,6 +28,16 @@ Methods in default Datasource, see the "About" for how to create datasource
 ######query(options: FilterObject[]): void
 * Queries all entities with paramas passed in
 
+```
+export interface FilterObject {
+  [key: string]: any;
+  operator: string;
+  value: any;
+  attribute: string;
+}
+```
+
+
 ---
 
 
@@ -39,6 +49,15 @@ Methods in default Datasource, see the "About" for how to create datasource
 
 ######getCurrentOrderBy(): SortObject[]
 * returns current orderBy used
+
+```
+export interface SortObject {
+  [key: string]: any;
+  attribute: string;
+  asc: boolean;
+  no?: number;
+}
+```
 
 ---
 
@@ -54,6 +73,19 @@ Methods in default Datasource, see the "About" for how to create datasource
 ######getElement(row: number): Entity
 * Returns current element of row passed in
 
+interface, only __avgKey & __groupLvl is added to rows, rest belongs to groups entities
+```
+export interface Entity {
+  __avgKey: number
+  __group?: boolean;
+  __groupID?: string;
+  __groupName?: string;
+  __groupLvl?: number;
+  __groupTotal?: number;
+  __groupChildren?: Entity[];
+  __groupExpanded?: boolean;
+}
+```
 
 ---
 
@@ -61,6 +93,12 @@ Methods in default Datasource, see the "About" for how to create datasource
 ######group(grouping: GroupingObj[], keepExpanded?: boolean): void
 * Groups the collection with params passed in
 
+```
+export interface GroupingObj {
+  title: string;
+  field: string;
+}
+```
 
 ---
 
