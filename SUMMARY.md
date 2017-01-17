@@ -51,6 +51,7 @@
     * [v-menu](chap04/v-menu.md)
     * [v-filter-observe](chap04/v-filter-trigger.md)
     * [v-onchange](chap04/v-onchange.md)
+    * [v-filter-observer](chap04/v-filter-observer.md)
 * [05. v-grid-col custom \(css help\)](chap05/README.md)
     * [checkbox](chap05/checkbox.md)
     * [image](chap05/image.md)
