@@ -13,3 +13,6 @@
 </ul>
 ```
 
+![](../vgridanimation/v-menu-main-types.png)
+
+

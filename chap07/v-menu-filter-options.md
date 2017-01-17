@@ -1,5 +1,7 @@
 # ```<v-menu-filter-options>```
 
+![](../vgridanimation/v-menu-main-filter-types.png)
+
 
 ```
 <ul if.bind="filterOptionsMenu" class="avg-menu__items">
@@ -84,4 +86,5 @@
     </li>
 </ul>
 ```
+
 
