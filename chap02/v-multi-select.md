@@ -1,5 +1,9 @@
 # v-multi-select
 
-nothing = none
-true = multi
-false = single
+```
+"v-multi-select="true"
+```
+
+* "nothing" = no selection
+* "true" = multi selection
+* "false" = single selection
