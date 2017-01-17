@@ -1,3 +1,3 @@
 # selection
 
-write how selection works, and how to replace it, what functions it have
+// todo, will do this after Ive commented the code better
