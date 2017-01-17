@@ -2,6 +2,7 @@
 
 Methods in default Datasource, see the "About" for how to create datasource
 
+
 ######setArray(array: Entity[]): void
 * Replaces internal collection and clear internal selection/sorting and grouping
 
