@@ -3,7 +3,7 @@
 
 ```
 //inside vgrid element
-<v-grid-col col-drag-drop="title:High;field:high" col-field="high"></v-grid-col>
+<v-grid-col col-drag-drop="title:High; field:high" col-field="high"></v-grid-col>
 ```
 
 To activate grouping both ```title & field``` needs to be added
