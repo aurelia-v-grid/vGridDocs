@@ -8,7 +8,7 @@ v-grid-connector.bind="gridConnector"
 
 App.js
 
-```
+```javascript
 import { GridConnector } from 'aurelia-v-grid';
 import { DataSource } from 'aurelia-v-grid';
 import { Selection } from 'aurelia-v-grid';
