@@ -41,8 +41,8 @@ attribute that can be used:
 ```
   // ? = optional
   colWidth?: number;
-  colRowTemplate?: string;
-  colHeaderTemplate?: string;
+  colRowTemplate?: string; (needs full html markup, see custom html)
+  colHeaderTemplate?: string; (needs full html markup, see custom html)
   colField: string;
   colPinLeft?: boolean;
   colPinRight?: boolean;
