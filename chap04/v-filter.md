@@ -1,7 +1,10 @@
 # v-filter
-Add to enable filter in header input
-First param must always be field/property of collection you want to filter.
+
+Add to enable filter in header input  
+First param must always be field/property of collection you want to filter.  
 Next are optional, you can add filter operator, value converter, and "onKeyDown" yo make grid filter on each key stroke, default if when you hit enter
+
+For information about having 2 columns on same attribute to filter between a value, you will need to add a key, see sample under col-filter, values used in this attribute will be the same
 
 ```html
 <v-grid-col>
@@ -13,9 +16,10 @@ Next are optional, you can add filter operator, value converter, and "onKeyDown"
     <input checked.bind="rowRef.name">
   </v-row-template>
 </v-grid-col>
-   ```
-   
+```
+
 Operators:
+
 ```
 "="      : "equals"
 "<=      : "less than or eq"
@@ -28,6 +32,6 @@ Operators:
 "*="     : "begins with"
 "=*"     : "ends with"
 ```
-   
-   
+
 ![](../vgridanimation/v-filter-animation.gif)
+
