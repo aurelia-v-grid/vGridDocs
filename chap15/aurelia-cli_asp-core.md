@@ -1,11 +1,12 @@
-# Aurelia-CLI (asp-core)
+# Aurelia-CLI \(asp-core\)
 
-*-Tested with esnext default :**not tested***
-* Run: ```npm install git://github.com/vegarringdal/vGrid.git#dev-rebuild --save```
-* In ```main.js``` add ```.plugin('aurelia-v-grid')```
-* Add to aurelia_project/aurelia.json
-```
-  
+_-Tested with esnext default :**not tested**_
+
+* Run: `npm install git://github.com/vegarringdal/vGrid.git#dev-rebuild --save`
+* In `main.js` add `.plugin('aurelia-v-grid')`
+* Add to aurelia\_project/aurelia.json
+
+  ```
   {
       "name": "aurelia-v-grid",
       "path": "../node_modules/aurelia-v-grid/dist/amd",
@@ -22,6 +23,7 @@
             "grid/attributes/v-drag-drop-col.js",
             "grid/attributes/v-filter.js",
             "grid/attributes/v-filter-observer.js",
+            "grid/attributes/v-data-handler.js",
             "grid/attributes/v-image.js",
             "grid/attributes/v-menu.js",
             "grid/attributes/v-resize-col.js",
@@ -38,24 +40,30 @@
             "grid/styles/main-elements.css"
           ]
     },
-  
   ```
 
 ---
-* set stub to false in the loader/plugins in aurelia_project/aurelia.json
-```
+
+* set stub to false in the loader/plugins in aurelia\_project/aurelia.json
+  \`\`\`
   "loader": {
-      "type": "require",
-      "configTarget": "vendor-bundle.js",
-      "includeBundleMetadataInConfig": "auto",
-      "plugins": [
-        {
-          "name": "text",
-          "extensions": [
-            ".html",
-            ".css"
-          ],
-          "stub": false <---------------------THIS ONE!!!!
-        }
-      ]
-    },```
+  ```
+  "type": "require",
+  "configTarget": "vendor-bundle.js",
+  "includeBundleMetadataInConfig": "auto",
+  "plugins": [
+    {
+      "name": "text",
+      "extensions": [
+        ".html",
+        ".css"
+      ],
+      "stub": false <---------------------THIS ONE!!!!
+    }
+  ]
+  ```
+
+    },\`\`\`
+
+
+
