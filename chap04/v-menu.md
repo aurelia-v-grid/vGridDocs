@@ -1,17 +1,13 @@
 # v-menu
 
-```
-v-menu="filter:attributeField"
-```
+
 
 ```
 v-menu="filterkey:something" 
 // see col-filter for more info for now, used when having filter with between values, adn two columns
 ```
 
-![](../vgridanimation/v-filter-animation.gif)
-
-
+![](/vgridanimation/v-menu-filter-animation.gif)
 
 ```
 v-menu="sort:attributeField"
@@ -38,4 +34,12 @@ v-menu="groupby:attributeField;sort:attributeField;filter:attributeField"
 ```
 
 ![](../vgridanimation/v-menu- all-animation.gif)
+
+
+
+
+
+* todo add "hideshow:true" for hide/column chooser
+
+
 
