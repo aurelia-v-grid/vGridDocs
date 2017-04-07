@@ -1,6 +1,4 @@
-
-
-
+# `<v-menu-chooser>`
 
 ```html
 <v-menu-chooser>
@@ -14,10 +12,9 @@
         </li>
 </ul>
 </v-menu-chooser>
-
 ```
 
-
+# `<v-menu-chooser-options>`
 
 ```html
 <v-menu-chooser-options>
@@ -43,8 +40,6 @@
         </div>
     </ul>
 </v-menu-chooser-options>
-
-
 ```
 
 
