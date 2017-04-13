@@ -8,5 +8,7 @@ Made for if you are using special custom html
     v-filter-observe="field:index;operator:<;value.bind:rangeValue;converter:numberFormatter" md-value.bind="rangeValue">
   </md-range>
 </v-header-template>
-
 ```
+
+
+
