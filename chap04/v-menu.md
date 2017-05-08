@@ -33,6 +33,17 @@ v-menu="groupby:attributeField"
 ![](../vgridanimation/v-menu-group-animation.gif)
 
 
+##Copypaste
+col-row-menu="copypaste:attributeField" 
+
+todo, add picture
+
+
+##hide
+col-label-menu="hideshow:true" 
+(will try and use col-header-name, else its using the col-field with uppercase the first char
+todo, add picture
+
 ## mix
 
 
