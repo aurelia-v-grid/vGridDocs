@@ -75,5 +75,6 @@
   * [Aurelia-CLI \(asp-core\)](chap15/aurelia-cli_asp-core.md)
   * [Webpack](chap15/webpack.md)
 * [16. Step by step](chap16/README.md)
-  * [Getting started](chap16/cli.md)
+  * [Creating project and installing plugin](chap16/cli.md)
+  * [adding simple grid](chap16/cli/adding-simple-grid.md)
 
