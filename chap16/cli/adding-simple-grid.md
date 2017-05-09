@@ -1,19 +1,19 @@
-####Adding grid to page
+#Adding grid to page
 
 In this step by step we will create this simple grid:
 
 ![](/assets/stepAnimatedGrid01.gif)
 
 
+###Step one
 
-####app.js
+> app.js
 
 * replace the app.js file content with this:
-* please read the comments to see whats going on
 
 ```javascript
 // import our grid connector
-// this is use to connect the grid to the datasource
+// this is used to connect the grid to the datasource we import a couple of lines below
 import { GridConnector } from 'aurelia-v-grid';
 
 // import our datasource, 
@@ -50,7 +50,7 @@ export class App {
 }
 ```
 
-####app.html
+####Step two
 
 
 
@@ -78,8 +78,8 @@ export class App {
 </template>
 ```
 
-#####You are done!
+####You are done!
 
-
+You page should now contain this simple grid:
 
 ![](/assets/stepAnimatedGrid01.gif)
