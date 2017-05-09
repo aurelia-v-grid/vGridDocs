@@ -27,14 +27,15 @@ Aurelia-CLI:
 
 ####Adding the plugin
 
-1. To install the plugin you need to enter the new project folder and run this:
+* To install the plugin you need to enter the new project folder and run this:
 > `npm install git://github.com/vegarringdal/vGrid.git#dev-rebuild --save`
 
-2. Now open this file(see below) in you project folder
+* Now open this file(see below) in you project folder
 > `vGridSample\aurelia_project\aurelia.json`
 
-3. Add this under bundles/vendorbundle/dependencies
-```
+* Add this under `bundles/vendorbundle/dependencies` in the json file
+
+```json
 {
     "name": "aurelia-v-grid",
     "path": "../node_modules/aurelia-v-grid/dist/amd",
@@ -69,25 +70,26 @@ Aurelia-CLI:
     ]
 }
 ```
-4. Under loader/plugins/text/stub you need to set it to false. 
-```
 
- "loader": {
-      "type": "require",
-      "configTarget": "vendor-bundle.js",
-      "includeBundleMetadataInConfig": "auto",
-      "plugins": [{
-        "name": "text",
-        "extensions": [
-          ".html",
-          ".css"
-        ],
-        "stub": false
-      }]
-    },
+* Under `loader/plugins/text/stub` in the json file, you need to set stub to false.
 
+```json
+"loader": {
+    "type": "require",
+    "configTarget": "vendor-bundle.js",
+    "includeBundleMetadataInConfig": "auto",
+    "plugins": [{
+      "name": "text",
+      "extensions": [
+        ".html",
+        ".css"
+      ],
+      "stub": false
+    }]
+  },
 ```
-5. Now open the /src/main.js and add "addPlugin()" 
+*  Now open the `src/main.js` and add "addPlugin()" 
+
 ```javascript
 
 import environment from './environment';
@@ -109,4 +111,9 @@ export function configure(aurelia) {
   aurelia.start().then(() => aurelia.setRoot());
 }
 ```
+
+####You are done!
+
+To run app type ```au run --watch``` and open the `hhttp://localhost:9001` in the browser
+
 
