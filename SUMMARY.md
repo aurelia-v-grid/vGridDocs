@@ -75,5 +75,5 @@
   * [Aurelia-CLI \(asp-core\)](chap15/aurelia-cli_asp-core.md)
   * [Webpack](chap15/webpack.md)
 * [16. Step by step](chap16/README.md)
-  * [CLI](chap16/cli.md)
+  * [Getting started](chap16/cli.md)
 
