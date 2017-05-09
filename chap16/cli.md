@@ -114,6 +114,7 @@ export function configure(aurelia) {
 
 ####You are done!
 
-To run app type ```au run --watch``` and open the `hhttp://localhost:9001` in the browser
+* To run app type ```au run --watch``` and open the `hhttp://localhost:9001` in the browser
+* You should see "hello world" on you screen, please open console and check that you have no errors
 
 
