@@ -88,7 +88,7 @@ Aurelia-CLI:
 
 ```
 5. Now open the /src/main.js and add "addPlugin()" 
-```
+```javascript
 
 import environment from './environment';
 
