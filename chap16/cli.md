@@ -71,4 +71,24 @@ Aurelia-CLI:
 }
 ```
 
+4. Under loader/plugins/text/stub you need to set it to false
+
+```
+ "loader": {
+      "type": "require",
+      "configTarget": "vendor-bundle.js",
+      "includeBundleMetadataInConfig": "auto",
+      "plugins": [{
+        "name": "text",
+        "extensions": [
+          ".html",
+          ".css"
+        ],
+        "stub": false
+      }]
+    },
+
+```
+
+
 
