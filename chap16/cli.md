@@ -34,7 +34,6 @@ Aurelia-CLI:
 > `vGridSample\aurelia_project\aurelia.json`
 
 3. Add this under bundles/vendorbundle/dependencies
-
 ```
 {
     "name": "aurelia-v-grid",
@@ -70,7 +69,6 @@ Aurelia-CLI:
     ]
 }
 ```
-
 4. Under loader/plugins/text/stub you need to set it to false
 
 ```
@@ -89,6 +87,26 @@ Aurelia-CLI:
     },
 
 ```
+5. Now open the /src/main.js and add "addPlugin()"
 
+```
+import environment from './environment';
 
+export function configure(aurelia) {
+  aurelia.use
+    .standardConfiguration()
+    .feature('resources')
+    .plugin('aurelia-v-grid')
+
+  if (environment.debug) {
+    aurelia.use.developmentLogging();
+  }
+
+  if (environment.testing) {
+    aurelia.use.plugin('aurelia-testing');
+  }
+
+  aurelia.start().then(() => aurelia.setRoot());
+}
+```
 
