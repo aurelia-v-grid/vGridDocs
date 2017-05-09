@@ -69,9 +69,9 @@ Aurelia-CLI:
     ]
 }
 ```
-4. Under loader/plugins/text/stub you need to set it to false
-
+4. Under loader/plugins/text/stub you need to set it to false. 
 ```
+
  "loader": {
       "type": "require",
       "configTarget": "vendor-bundle.js",
@@ -87,9 +87,9 @@ Aurelia-CLI:
     },
 
 ```
-5. Now open the /src/main.js and add "addPlugin()"
-
+5. Now open the /src/main.js and add "addPlugin()" 
 ```
+
 import environment from './environment';
 
 export function configure(aurelia) {
