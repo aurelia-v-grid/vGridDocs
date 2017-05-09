@@ -1,8 +1,15 @@
 ####Adding grid to page
 
+In this step by step we will create this simple grid:
+
+![](/assets/stepAnimatedGrid01.gif)
+
+
+
 ####app.js
 
 * replace the app.js file content with this:
+* please read the comments to see whats going on
 
 ```javascript
 // import our grid connector
@@ -59,7 +66,7 @@ export class App {
     v-grid-connector.bind="gridConnector"   
     style="height:400px;width:400px">
     
-    <!--Grid columns with just name of the attibute we want it to display-->
+    <!--Grid columns with just name of the attribute we want it to display-->
 
     <v-grid-col col-field="id"></v-grid-col>
     <v-grid-col col-field="country"></v-grid-col>
@@ -70,3 +77,9 @@ export class App {
 
 </template>
 ```
+
+#####You are done!
+
+
+
+![](/assets/stepAnimatedGrid01.gif)
