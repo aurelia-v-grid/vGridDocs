@@ -21,6 +21,7 @@
   * [v-data-delay](chap02/v-data-delay.md)
   * [v-row-onclick](chap02/v-row-onclick.md)
   * [v-row-ondblclick](chap02/v-row-ondblclick.md)
+  * [v-variable-row-height](chap02/v-variable-row-height.md)
 * [03. v-grid-col \(simple\)](chap03/README.md)
   * [col-width](chap03/col-width.md)
   * [col-type](chap03/col-type.md)
