@@ -3,6 +3,7 @@
 ###Attributes
 
 See the next articles for more information on what you can use and how
+For own custom grouprow height compared to regular row see the v-variable-row-height
 
 ```html
 <v-grid>
