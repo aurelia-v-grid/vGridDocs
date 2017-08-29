@@ -1,14 +1,15 @@
 # v-i18n
 
-To translate menus and placeholders, use the ```this.gridConnector.triggerI18n();``` to trigger the grid to ask for new keys/translation if you change language
+To translate menus and placeholders, use the `this.gridConnector.triggerI18n();` to trigger the grid to ask for new keys/translation if you change language
 
 add to v-grid element
+
 ```html
 v-i18n.call="translateI18n($event)"
-
 ```
 
-quick sample of code in you page (boring translation... but something)
+quick sample of code in you page \(boring translation... but something\)
+
 ```javascript
 // this is the i18N translation
   public translateI18n(key: string) {
@@ -25,11 +26,10 @@ quick sample of code in you page (boring translation... but something)
     // this will trigger the grid to ask for every translation key
     this.gridConnector.triggerI18n();
   }
-
 ```
 
-
 Default keys inside the grid
+
 ```javasrcipt
       close: 'Close',
       pinLeft: 'Pin left',
@@ -52,6 +52,11 @@ Default keys inside the grid
       doesNotContain: 'Does not contain',
       beginsWith: 'Begins with',
       endsWith: 'Ends with',
-      loading: 'loading'
-    
-    ```
+      loading: 'loading',
+      columnChooser: 'Column Chooser',
+      copy: 'Copy cell value',
+      paste: 'Paste into cells'
+```
+
+
+
