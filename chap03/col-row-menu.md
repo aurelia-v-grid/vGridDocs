@@ -5,3 +5,4 @@ This will add it so it only react to clicks on row
 
 * only simple copy paste implemented
 
+![](/assets/copy-paste.gif)
