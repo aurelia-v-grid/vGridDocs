@@ -3,7 +3,7 @@
 _-Tested with esnext default :**tested**_
 
 * During development Im testing a remote datasource, so you also need o add ""aurelia-fetch-client" to project, will remove later
-* Run: `npm install git://github.com/vegarringdal/vGrid.git#dev-rebuild --save`
+* Run: `npm install aurelia-v-grid --save`
 * In `main.js` add `.plugin('aurelia-v-grid')`
 * Add to aurelia\_project/aurelia.json
   \`\`\`
@@ -43,9 +43,10 @@ _-Tested with esnext default :**tested**_
 
 ---
 
-* set stub to false in the loader/plugins in aurelia\_project/aurelia.json
-  \`\`\`
+* set stub to false in the loader/plugins in aurelia\_project/aurelia.json  
+  \`\`\`  
   "loader": {
+
   ```
   "type": "require",
   "configTarget": "vendor-bundle.js",
@@ -62,7 +63,7 @@ _-Tested with esnext default :**tested**_
   ]
   ```
 
-    },\`\`\`
+  },\`\`\`
 
 
 

@@ -1,5 +1,9 @@
 # JSPM
 
- *-Tested with esnext skeleton:**not tested***
-* Run: ````jspm install aurelia-v-grid=github:vegarringdal/vGrid```
-* In ```main.js``` add ```.plugin('aurelia-v-grid')```
+_-Tested with esnext skeleton:**not tested**_
+
+* Run: ```jspm install aurelia-v-grid``
+* In `main.js` add `.plugin('aurelia-v-grid')`
+
+
+

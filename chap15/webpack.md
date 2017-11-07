@@ -2,8 +2,12 @@
 
 // todo, I prb need to update package jsn in resources with same as aurelia-cli resources...
 
+### Webpack
 
-###Webpack
-*-Tested with esnext skeleton:**not tested***
-* Run: ```npm install git://github.com/vegarringdal/vGrid.git#dev-rebuild --save```
-* In ```main.js``` add ```.plugin('aurelia-v-grid')```
+_-Tested with esnext skeleton:**not tested**_
+
+* Run: `npm install aurelia-v-grid --save`
+* In `main.js` add `.plugin('aurelia-v-grid')`
+
+
+
