@@ -1,6 +1,8 @@
 # datasource
 
-Methods in default Datasource, see the "About" for how to create datasource
+Methods in default **Datasource**, see the "About" for how to create datasource
+
+---
 
 
 ######setArray(array: Entity[]): void

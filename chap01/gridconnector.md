@@ -1,5 +1,9 @@
 # gridConnector
 
+Methods in default **GridConnector**, see the "About" for how to create gridConnector
+
+
+
 ----
 
 ######getColConfig(): ColConfig[]
