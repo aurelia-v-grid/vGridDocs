@@ -1,11 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Install](15.-install/README.md)
-  * [JSPM](15.-install/jspm.md)
-  * [Aurelia-CLI \(not asp.core\)](15.-install/aurelia-cli-not-asp.core.md)
-  * [Aurelia-CLI \(asp-core\)](15.-install/aurelia-cli-asp-core.md)
-  * [Webpack](15.-install/webpack.md)
 * [About \(readme first\)](01.-about/README.md)
   * [grid columns](01.-about/grid-columns.md)
   * [datasource methods](01.-about/datasource-methods.md)
@@ -76,4 +71,9 @@
 * [&lt;v-grid-group-element&gt;](09.-v-grid-group-element-custom-group-element.md)
 * [&lt;v-grid-footer&gt;](10.-v-grid-footer-custom.md)
 * [&lt;v-grid-loading-screen&gt;](11.-v-grid-loading-screen-custom.md)
+* [Install](15.-install/README.md)
+  * [JSPM](15.-install/jspm.md)
+  * [Aurelia-CLI \(not asp.core\)](15.-install/aurelia-cli-not-asp.core.md)
+  * [Aurelia-CLI \(asp-core\)](15.-install/aurelia-cli-asp-core.md)
+  * [Webpack](15.-install/webpack.md)
 

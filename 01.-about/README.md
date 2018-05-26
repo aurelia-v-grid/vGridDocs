@@ -1,6 +1,12 @@
 # About \(readme first\)
 
-Read chapter "Install" for how to get it installed
+{% hint style="info" %}
+You need to read entire about section before you try and use it!!!
+{% endhint %}
+
+{% hint style="info" %}
+Read chapter "Install" for how to get it installed \(bottom in right menu\)
+{% endhint %}
 
 To work use and connect to the grid you will need to use built in data source and grid connector. If you also need selection in the grid, you will also need to import this.
 
