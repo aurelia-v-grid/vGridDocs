@@ -11,10 +11,10 @@ let columnConfigArray = this.gridConnector.getColConfig();
 ## setColConfig\(colconfig: ColConfig\[\]\): void
 
 ```text
-this.gridConnector.getColConfig(columnConfigArray);
+this.gridConnector.setColConfig(columnConfigArray);
 
 //resets to default (html, or when grid loaded of no html)
-this.gridConnector.getColConfig(null)
+this.gridConnector.setColConfig(null)
 ```
 
 Interface
